@@ -1,3 +1,5 @@
+import time
+
 import pytest
 
 def setup_function(function):
@@ -10,4 +12,6 @@ def test_login():
 
 def test_logout():
     print("Logout test")
+
+    time.sleep(5)
 
