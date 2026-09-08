@@ -1,0 +1,36 @@
+table --> tbody --> tr 5th and td 1st --> which is pointing to my desired element
+table xpath = //table[@id='customers']/tbody
+//tr[5]/td[1]
+
+Xpath —> 2types
+Absolute ==> right from the html starting till the desired element “/“
+Html/body/div[4]/input[3] —> it wont use any attributes for that element
+
+Relative ==> “//“
+//tagname[@attbiutetype=‘attributevalue’ and @attributetype=‘value2’]
+//tagname[@attbiutetype=‘attributevalue’ or @attributetype=‘value2’]
+
+
+//iput[@name=‘login-button’]
+
+* :
+Xpath : contains :
+//tagname[contains(@atrtribute,’value’)]
+
+//tagname[starts-with(@atrtribute,’value’)]
+
+Text:
+Exact match ==>
+//tagname[text()=‘desired text’]
+Partial text match ==-> contains : //tagname[contains(text(),’desired text’)]
+
+Starting text —> starts-with
+//tagname[starts-with(text(),’desired text’)]
+
+identify 5th element: or any specific element:
+1. index based operation we will use square brackets
+(//tagname[@attribute=‘value’])[5]  ==> 5th element
+2. position based operation
+//tagname[@attribute=‘value’][position()=5] ==> 5th
+3. last() function --> last element
+//tagname[@attribute=‘value’][last()]
