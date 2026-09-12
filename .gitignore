@@ -30,3 +30,6 @@ Reports/*
 
 # Temporary files
 *.tmp
+
+Reports/
+playwright-automation.zip
