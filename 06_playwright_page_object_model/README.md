@@ -1,24 +1,120 @@
-# Page Object Model (POM) – Playwright + Pytest
+# 🧱 Playwright Page Object Model
 
-Page Object Model (POM) design pattern implemented within the Python + Playwright + Pytest automation project.
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/) [![Pytest](https://img.shields.io/badge/Pytest-Test%20Automation-orange?logo=pytest)](https://docs.pytest.org/) [![Playwright](https://img.shields.io/badge/Playwright-Browser%20Automation-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/python/)
 
-## Structure
+> **Reusable automation architecture** — Page Object Model implementation using Playwright and Pytest for a SauceDemo end-to-end workflow.
 
-- **pages/** - Page classes containing reusable locators and page actions.
-- **test_E2EScenario1.py** - End-to-end test scenario using the page classes.
-- **Random_Data.py** - Test data used by the automation scenario.
-- **test_runner.py** - Test execution entry point.
+---
 
-## Page Objects
+## 🎯 Purpose
 
-- LoginPage
-- HomePage
-- InfoPage
-- OverviewPage
-- CartPage
+This section separates page-specific locators and actions into reusable classes while keeping the test scenario focused on the business workflow and validation.
 
-## Implementation
+---
 
-The page classes separate web-page interaction logic from test logic, allowing reusable locators and actions to be used across the E2E scenario.
+## 📚 Topics
 
-The POM implementation is part of the overall Python + Playwright + Pytest automation project.
+### 🔐 Login Page Object
+Encapsulates SauceDemo login elements and actions.
+
+📄 **Script:** [`LoginPage.py`](Scripts/pages/LoginPage.py)
+
+#### 📸 Output
+Actual execution screenshot will be added here.
+
+---
+
+### 🏠 Home Page Object
+Encapsulates product-page interactions and shopping-cart actions.
+
+📄 **Script:** [`HomePage.py`](Scripts/pages/HomePage.py)
+
+#### 📸 Output
+Actual execution screenshot will be added here.
+
+---
+
+### 🛒 Cart Page Object
+Encapsulates shopping-cart interactions.
+
+📄 **Script:** [`CartPage.py`](Scripts/pages/CartPage.py)
+
+#### 📸 Output
+Actual execution screenshot will be added here.
+
+---
+
+### 🧾 Checkout Information Page Object
+Encapsulates customer information used during checkout.
+
+📄 **Script:** [`InfoPage.py`](Scripts/pages/InfoPage.py)
+
+#### 📸 Output
+Actual execution screenshot will be added here.
+
+---
+
+### 📋 Overview Page Object
+Encapsulates order review and final checkout actions.
+
+📄 **Script:** [`OverviewPage.py`](Scripts/pages/OverviewPage.py)
+
+#### 📸 Output
+Actual execution screenshot will be added here.
+
+---
+
+### 🎲 Test Data Generation
+Uses Faker and random data generation for dynamic customer information.
+
+📄 **Script:** [`Random_Data.py`](Scripts/pages/Random_Data.py)
+
+#### 📸 Output
+Actual execution screenshot will be added here.
+
+---
+
+### 🔄 End-to-End Test Scenario
+Coordinates the page objects through the complete SauceDemo customer workflow.
+
+**Workflow**
+
+`Login → Product → Cart → Checkout → Customer Information → Review → Place Order → Logout`
+
+📄 **Script:** [`test_E2EScenario1.py`](Scripts/pages/test_E2EScenario1.py)
+
+#### 📸 Output
+Actual execution screenshot will be added here.
+
+---
+
+### ▶️ Test Runner
+Provides the test-runner entry point used with the page-object implementation.
+
+📄 **Script:** [`test_runner.py`](Scripts/pages/test_runner.py)
+
+#### 📸 Output
+Actual execution screenshot will be added here.
+
+---
+
+## 🧩 Page Object Structure
+
+```text
+06_playwright_page_object_model/
+└── pages/
+    ├── LoginPage.py
+    ├── HomePage.py
+    ├── CartPage.py
+    ├── InfoPage.py
+    ├── OverviewPage.py
+    ├── Random_Data.py
+    ├── test_E2EScenario1.py
+    └── test_runner.py
+```
+
+---
+
+## 🔑 Key Takeaway
+
+The Page Object Model section demonstrates how Playwright automation can move from individual scripts toward reusable, readable and maintainable end-to-end test design.
