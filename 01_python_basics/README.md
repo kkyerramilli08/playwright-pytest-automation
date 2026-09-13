@@ -20,37 +20,37 @@ Integers, floats and strings, together with basic type inspection.
 📄 **Script:** [`DatatypeExample.py`](Scripts/DatatypeExample.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/datatype_output.png)](Screenshots/datatype_output.png)
 
 ---
 
 ### 🔍 `type()` & `isinstance()`
 Demonstrates runtime type inspection and type checking.
 
-📄 **Script:** [`type%20%26%20isinstance%20func%20example.py`](Scripts/type%20%26%20isinstance%20func%20example.py)
+📄 **Script:** [`type & isinstance func example.py`](Scripts/type & isinstance func example.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/type & instnce func output.png)](Screenshots/type & instnce func output.png)
 
 ---
 
 ### 🔀 Conditional Statements
 Uses `if` / `else` logic to control execution based on conditions.
 
-📄 **Script:** [`conditional%20stmt%20example.py`](Scripts/conditional%20stmt%20example.py)
+📄 **Script:** [`conditional stmt example.py`](Scripts/conditional stmt example.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/conditional stmt ex output.png)](Screenshots/conditional stmt ex output.png)
 
 ---
 
 ### 🔁 For & While Loops
 Demonstrates repeated execution using `for` and `while` loops.
 
-📄 **Script:** [`for%20%26%20while%20loop%20stmt%20.py`](Scripts/for%20%26%20while%20loop%20stmt%20.py)
+📄 **Script:** [`for & while loop stmt .py`](Scripts/for & while loop stmt .py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/for&while loop stmt output.png)](Screenshots/for&while loop stmt output.png)
 
 ---
 
@@ -60,7 +60,7 @@ Functions, parameters and return values for reusable logic.
 📄 **Script:** [`function.py`](Scripts/function.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/function output.png)](Screenshots/function output.png)
 
 ---
 
@@ -70,7 +70,7 @@ Python list creation and common list operations.
 📄 **Script:** [`Lists.py`](Scripts/Lists.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/lists output.png)](Screenshots/lists output.png)
 
 ---
 
@@ -80,51 +80,52 @@ Set data structures and unique-value behavior.
 📄 **Script:** [`set.py`](Scripts/set.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/set output.png)](Screenshots/set output.png)
 
 ---
 
 ### ⚡ Lambda Functions
 Compact anonymous functions using Python `lambda` syntax.
 
-📄 **Script:** [`Lambda%20function.py`](Scripts/Lambda%20function.py)
+📄 **Script:** [`Lambda function.py`](Scripts/Lambda function.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/lambda function output.png)](Screenshots/lambda function output.png)
 
 ---
 
 ### 🏗️ Classes & Objects
 Introduces object-oriented programming through classes and object instances.
 
-📄 **Script:** [`class%26object.py`](Scripts/class%26object.py)
+📄 **Script:** [`class&object.py`](Scripts/class&object.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/class&object output.png)](Screenshots/class&object output.png)
 
 ---
 
 ### 🛡️ Exception Handling
 Uses `try`, `except`, `else` and `finally` for controlled error handling.
 
-📄 **Script:** [`Exceptions%20Handling.py`](Scripts/Exceptions%20Handling.py)
+📄 **Script:** [`Exceptions Handling.py`](Scripts/Exceptions Handling.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/exceptions handling output.png)](Screenshots/exceptions handling output.png)
 
 ---
 
 ### ➕ Exception Handling with `else`
 Demonstrates execution of the `else` block when no exception occurs.
 
-📄 **Script:** [`exception%20with%20else%20clause.py`](Scripts/exception%20with%20else%20clause.py)
+📄 **Script:** [`exception with else clause.py`](Scripts/exception%20with%20else%20clause.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
 
 ---
 
 ## 🖼️ Existing Project Evidence
+
+[![Project Evidence](Screenshots/project evidence.png)](Screenshots/project evidence.png)
 
 ![Python project evidence](Screenshots/img.png)
 

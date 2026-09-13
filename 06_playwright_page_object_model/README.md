@@ -20,7 +20,6 @@ Encapsulates SauceDemo login elements and actions.
 📄 **Script:** [`LoginPage.py`](Scripts/pages/LoginPage.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
 
 ---
 
@@ -30,7 +29,6 @@ Encapsulates product-page interactions and shopping-cart actions.
 📄 **Script:** [`HomePage.py`](Scripts/pages/HomePage.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
 
 ---
 
@@ -40,7 +38,6 @@ Encapsulates shopping-cart interactions.
 📄 **Script:** [`CartPage.py`](Scripts/pages/CartPage.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
 
 ---
 
@@ -50,7 +47,6 @@ Encapsulates customer information used during checkout.
 📄 **Script:** [`InfoPage.py`](Scripts/pages/InfoPage.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
 
 ---
 
@@ -60,7 +56,6 @@ Encapsulates order review and final checkout actions.
 📄 **Script:** [`OverviewPage.py`](Scripts/pages/OverviewPage.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
 
 ---
 
@@ -70,7 +65,6 @@ Uses Faker and random data generation for dynamic customer information.
 📄 **Script:** [`Random_Data.py`](Scripts/pages/Random_Data.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
 
 ---
 
@@ -84,7 +78,6 @@ Coordinates the page objects through the complete SauceDemo customer workflow.
 📄 **Script:** [`test_E2EScenario1.py`](Scripts/pages/test_E2EScenario1.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
 
 ---
 
@@ -94,7 +87,6 @@ Provides the test-runner entry point used with the page-object implementation.
 📄 **Script:** [`test_runner.py`](Scripts/pages/test_runner.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
 
 ---
 
@@ -102,7 +94,7 @@ Actual execution screenshot will be added here.
 
 ```text
 06_playwright_page_object_model/
-└── pages/
+└── Scripts/pages/
     ├── LoginPage.py
     ├── HomePage.py
     ├── CartPage.py

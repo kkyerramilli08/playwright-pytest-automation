@@ -20,7 +20,7 @@ Entering and handling values in text input fields.
 📄 **Script:** [`test_handletextfields.py`](Scripts/test_handletextfields.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_handletextfields.png)](Screenshots/test_handletextfields.png)
 
 ---
 
@@ -30,7 +30,7 @@ Selecting and validating checkbox controls.
 📄 **Script:** [`test_multi_checkbox.py`](Scripts/test_multi_checkbox.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_multi_checkbox.png)](Screenshots/test_multi_checkbox.png)
 
 ---
 
@@ -40,12 +40,12 @@ Selecting values from standard dropdown controls and validating the selected val
 📄 **Script:** [`test_handleDropDown.py`](Scripts/test_handleDropDown.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_handleDropDown.png)](Screenshots/test_handleDropDown.png)
 
 📄 **Script:** [`test_getvaluefromDropDown.py`](Scripts/test_getvaluefromDropDown.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_getvaluefromDropDown.png)](Screenshots/test_getvaluefromDropDown.png)
 
 ---
 
@@ -55,7 +55,7 @@ Selecting multiple options from a multi-select control.
 📄 **Script:** [`test_MultiDropDown.py`](Scripts/test_MultiDropDown.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_MultiDropDown.png)](Screenshots/test_MultiDropDown.png)
 
 ---
 
@@ -65,7 +65,7 @@ Browser mouse interactions such as movement and clicking.
 📄 **Script:** [`test_MouseActions.py`](Scripts/test_MouseActions.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_MouseActions.png)](Screenshots/test_MouseActions.png)
 
 ---
 
@@ -75,7 +75,7 @@ Hovering over a web element to trigger a UI interaction.
 📄 **Script:** [`test_MouseHover.py`](Scripts/test_MouseHover.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_MouseHover.png)](Screenshots/test_MouseHover.png)
 
 ---
 
@@ -85,7 +85,7 @@ Retrieving text from a web element and validating the result.
 📄 **Script:** [`test_TextFromElement.py`](Scripts/test_TextFromElement.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_TextFromElement.png)](Screenshots/test_TextFromElement.png)
 
 ---
 

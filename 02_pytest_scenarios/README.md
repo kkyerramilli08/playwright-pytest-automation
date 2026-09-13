@@ -20,7 +20,7 @@ Pytest discovers test functions using conventions such as the `test_` prefix. Se
 📄 **Script:** [`test_basic_function.py`](Scripts/test_basic_function.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_basic_function.png)](Screenshots/test_basic_function.png)
 
 ---
 
@@ -30,7 +30,7 @@ Assertions compare actual results with expected results and determine whether a 
 📄 **Script:** [`test_assertions.py`](Scripts/test_assertions.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_assertions.png)](Screenshots/test_assertions.png)
 
 ---
 
@@ -40,7 +40,7 @@ Fixtures provide reusable setup or test data to test functions.
 📄 **Script:** [`test_fixtures.py`](Scripts/test_fixtures.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_fixtures.png)](Screenshots/test_fixtures.png)
 
 ---
 
@@ -50,12 +50,12 @@ Setup prepares the test environment and teardown performs required cleanup.
 📄 **Script:** [`test_setup_function.py`](Scripts/test_setup_function.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_setup_function.png)](Screenshots/test_setup_function.png)
 
 📄 **Script:** [`test_setup_module.py`](Scripts/test_setup_module.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_setup_module.png)](Screenshots/test_setup_module.png)
 
 ---
 
@@ -65,7 +65,7 @@ Markers categorize tests so selected groups can be executed independently.
 📄 **Script:** [`test_markers.py`](Scripts/test_markers.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_makers.png)](Screenshots/test_makers.png)
 
 ---
 
@@ -75,7 +75,7 @@ Demonstrates ordered execution with `pytest.mark.order`. Independent tests are g
 📄 **Script:** [`test_order.py`](Scripts/test_order.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_order.png)](Screenshots/test_order.png)
 
 ---
 
@@ -85,7 +85,7 @@ Runs the same test logic with multiple sets of input data.
 📄 **Script:** [`test_paramater_mark.py`](Scripts/test_paramater_mark.py)
 
 #### 📸 Output
-Actual execution screenshot will be added here.
+[![Execution Evidence](Screenshots/test_parameter_mark.png)](Screenshots/test_parameter_mark.png)
 
 ---
 
