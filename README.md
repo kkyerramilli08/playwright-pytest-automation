@@ -15,22 +15,22 @@ The project progresses from Python fundamentals and Pytest scenarios to Playwrig
 
 ## Project Structure
 
-### 01_python_basics
+### [01 Python Basics](./01_python_basics)
 Python fundamentals used as the foundation for QA automation.
 
-### 02_pytest_scenarios
+### [02 Pytest Scenarios](./02_pytest_scenarios)
 Pytest scenarios covering test functions, fixtures, setup/teardown, parameters, markers, assertions and test organization.
 
-### 03_playwright_config_locators_assertions
+### [03 Playwright Configuration, Locators & Assertions](./03_playwright_config_locators_assertions)
 Playwright configuration, locator strategies and assertion-based validation.
 
-### 04_playwright_ui_elements_basic
+### [04 Playwright UI Elements - Basic](./04_playwright_ui_elements_basic)
 Basic Playwright UI element automation scenarios.
 
-### 05_playwright_ui_elements_advanced
+### [05 Playwright UI Elements - Advanced](./05_playwright_ui_elements_advanced)
 Advanced Playwright browser interaction scenarios including frames, alerts, web tables, multiple windows, mouse interactions, drag-and-drop, dynamic elements and authentication.
 
-### 06_playwright_page_object_model
+### [06 Playwright Page Object Model](./06_playwright_page_object_model)
 Page Object Model (POM) implementation using reusable page classes and Pytest end-to-end scenarios.
 
 ## Project-Level Resources
