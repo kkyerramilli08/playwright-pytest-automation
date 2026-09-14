@@ -15,9 +15,14 @@ This section demonstrates how Playwright identifies elements, interacts with web
 ## 📚 Topics
 
 ### ⚙️ Playwright Configuration
-The examples use Playwright with Pytest for browser-driven automation.
 
-📄 **Script:** [`test_example.py`](Scripts/test_example.py)
+Playwright is configured to run browser-based tests through Pytest. The project-level `pytest.ini` controls browser execution options such as the Chromium browser and headed execution.
+
+📄 **Configuration:** [`pytest.ini`](../pytest.ini)
+
+📄 **Example Script:** [`test_example.py`](Scripts/test_example.py)
+
+The `test_example.py` script demonstrates the basic Playwright test setup and browser interaction used in this section.
 
 #### 📸 Output
 [![Execution Evidence](Screenshots/test_example.png)](Screenshots/test_example.png)
@@ -39,6 +44,7 @@ Locating elements by visible text.
 📄 **Script:** [`test_getbytext.py`](Scripts/test_getbytext.py)
 
 #### 📸 Output
+[![Execution Evidence](Screenshots/test_getbytext.png)](Screenshots/test_getbytext.png)
 
 ---
 ### 🔹 get_by_label()
@@ -137,7 +143,6 @@ An additional Playwright example included in this learning section.
 
 [![Project Evidence](Screenshots/project evidence.png)](Screenshots/project evidence.png)
 
-![Playwright example](Screenshots/example.png)
 
 ---
 

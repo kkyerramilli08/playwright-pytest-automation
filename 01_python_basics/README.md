@@ -120,14 +120,13 @@ Demonstrates execution of the `else` block when no exception occurs.
 📄 **Script:** [`exception with else clause.py`](Scripts/exception%20with%20else%20clause.py)
 
 #### 📸 Output
+[![Execution Evidence](Screenshots/exception with else clause output.png)](Screenshots/exception with else clause output.png)
 
 ---
 
 ## 🖼️ Existing Project Evidence
 
 [![Project Evidence](Screenshots/project evidence.png)](Screenshots/project evidence.png)
-
-![Python project evidence](Screenshots/project evidence.png)
 
 ---
 

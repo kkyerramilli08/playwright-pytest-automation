@@ -91,7 +91,9 @@ Runs the same test logic with multiple sets of input data.
 
 ## ⚙️ Test Configuration
 
-[`pytest.ini`](../pytest.ini) defines discovery rules, registered markers and execution options used by the project.
+[`pytest.ini`](../pytest.ini) is the project-level Pytest configuration file. It defines test discovery rules, registered markers and default execution options used across the automation project.
+
+It is located at the repository root and applies to the relevant Pytest test suites; it is not a test script specific to this folder.
 
 ---
 
