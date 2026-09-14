@@ -121,22 +121,22 @@ An **object** is an instance of a class created from that blueprint.
 ### 🛡️ Exception Handling
 Uses `try`, `except`, `else` and `finally` for controlled error handling.
 
-📄 **Script:** [Exceptions Handling.py](Exceptions Handling.py)
+📄 **Script:** [Exceptions Handling.py](<Exceptions Handling.py>)
 
 #### 📸 Output
 
-![Output](Screenshots/exceptions handling output.png)
+![Output](<Screenshots/exceptions handling output.png>)
 
 ---
 
 ### ➕ Exception Handling with `else`
 Demonstrates execution of the `else` block when no exception occurs.
 
-📄 **Script:** [exception with else clause.py](Scripts/exception with else clause.py)
+📄 **Script:** [exception with else clause.py](<Scripts/exception with else clause.py>)
 
 #### 📸 Output
 
-![Output](Screenshots/exception with else clause output.png)
+![Output](<Screenshots/exception with else clause output.png>)
 
 ---
 
