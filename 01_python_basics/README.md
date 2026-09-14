@@ -127,7 +127,7 @@ Demonstrates execution of the `else` block when no exception occurs.
 
 [![Project Evidence](Screenshots/project evidence.png)](Screenshots/project evidence.png)
 
-![Python project evidence](Screenshots/img.png)
+![Python project evidence](Screenshots/project evidence.png)
 
 ---
 
