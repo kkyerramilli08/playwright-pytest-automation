@@ -20,47 +20,52 @@ Integers, floats and strings, together with basic type inspection.
 📄 **Script:** [`DatatypeExample.py`](Scripts/DatatypeExample.py)
 
 #### 📸 Output
-[![Execution Evidence](datatype_output.png)](datatype_output.png)
+
+![Data Types](Screenshots/datatype_output.png)
 
 ---
 
 ### 🔍 `type()` & `isinstance()`
 Demonstrates runtime type inspection and type checking.
 
-📄 **Script:** [`type & isinstance func example.py`](Scripts/type & isinstance func example.py)
+📄 **Script:** [type & isinstance func example.py](<Scripts/type & isinstance func example.py>)
 
 #### 📸 Output
-[![Execution Evidence](type%20%26%20instnce%20func%20output.png)](type%20%26%20instnce%20func%20output.png)
+
+![type() & isinstance()](<Screenshots/type & instnce func output.png>)
 
 ---
 
 ### 🔀 Conditional Statements
 Uses `if` / `else` logic to control execution based on conditions.
 
-📄 **Script:** [`conditional stmt example.py`](Scripts/conditional stmt example.py)
+📄 **Script:** [conditional stmt example.py](<Scripts/conditional stmt example.py>)
 
 #### 📸 Output
-[![Execution Evidence](conditional%20stmt%20ex%20output.png)](conditional%20stmt%20ex%20output.png)
+
+![Conditional Statements](<Screenshots/conditional stmt ex output.png>)
 
 ---
 
 ### 🔁 For & While Loops
 Demonstrates repeated execution using `for` and `while` loops.
 
-📄 **Script:** [`for & while loop stmt .py`](Scripts/for & while loop stmt .py)
+📄 **Script:** [for & while loop stmt .py](<Scripts/for & while loop stmt .py>)
 
 #### 📸 Output
-[![Execution Evidence](for%26while%20loop%20stmt%20output.png)](for%26while%20loop%20stmt%20output.png)
+
+![For & While Loops](<Screenshots/for&while loop stmt output.png>)
 
 ---
 
 ### 🧩 Functions
 Functions, parameters and return values for reusable logic.
 
-📄 **Script:** [`function.py`](Scripts/function.py)
+📄 **Script:** [function.py](Scripts/function.py)
 
 #### 📸 Output
-[![Execution Evidence](function%20output.png)](function%20output.png)
+
+![Functions](Screenshots/function output.png)
 
 ---
 
@@ -70,7 +75,8 @@ Python list creation and common list operations.
 📄 **Script:** [`Lists.py`](Scripts/Lists.py)
 
 #### 📸 Output
-[![Execution Evidence](lists%20output.png)](lists%20output.png)
+
+![Lists](Screenshots/lists%20output.png)
 
 ---
 
@@ -80,53 +86,63 @@ Set data structures and unique-value behavior.
 📄 **Script:** [`set.py`](Scripts/set.py)
 
 #### 📸 Output
-[![Execution Evidence](set%20output.png)](set%20output.png)
+
+![Sets](<Screenshots/set output.png>)
 
 ---
 
 ### ⚡ Lambda Functions
 Compact anonymous functions using Python `lambda` syntax.
 
-📄 **Script:** [`Lambda function.py`](Scripts/Lambda function.py)
+A lambda function is a small anonymous function defined using the `lambda` keyword. 
+It can take any number of arguments but contains only a single expression.
+
+📄 **Script:** [Lambda function.py](<Scripts/Lambda function.py>)
 
 #### 📸 Output
-[![Execution Evidence](lambda%20function%20output.png)](lambda%20function%20output.png)
+
+![Lambda Functions](<Screenshots/lambda function output.png>)
 
 ---
-
 ### 🏗️ Classes & Objects
 Introduces object-oriented programming through classes and object instances.
 
-📄 **Script:** [`class&object.py`](Scripts/class&object.py)
+A **class** is a blueprint used to define the attributes and behaviors of an object. 
+An **object** is an instance of a class created from that blueprint.
+
+📄 **Script:** [class&object.py](<Scripts/class&object.py>)
 
 #### 📸 Output
-[![Execution Evidence](class%26object%20output.png)](class%26object%20output.png)
+
+![Classes and Objects](<Screenshots/class&object output.png>)
 
 ---
 
 ### 🛡️ Exception Handling
 Uses `try`, `except`, `else` and `finally` for controlled error handling.
 
-📄 **Script:** [`Exceptions Handling.py`](Scripts/Exceptions Handling.py)
+📄 **Script:** [Exceptions Handling.py](Exceptions Handling.py)
 
 #### 📸 Output
-[![Execution Evidence](exceptions%20handling%20output.png)](exceptions%20handling%20output.png)
+
+![Output](Screenshots/exceptions handling output.png)
 
 ---
 
 ### ➕ Exception Handling with `else`
 Demonstrates execution of the `else` block when no exception occurs.
 
-📄 **Script:** [`exception with else clause.py`](Scripts/exception%20with%20else%20clause.py)
+📄 **Script:** [exception with else clause.py](Scripts/exception with else clause.py)
 
 #### 📸 Output
-[![Execution Evidence](exception%20with%20else%20clause%20output.png)](exception%20with%20else%20clause%20output.png)
+
+![Output](Screenshots/exception with else clause output.png)
 
 ---
 
 ## 🖼️ Existing Project Evidence
 
-[![Project Evidence](project%20evidence.png)](project%20evidence.png)
+![Project Evidence](Screenshots/project evidence.png)
 
 ---
 
