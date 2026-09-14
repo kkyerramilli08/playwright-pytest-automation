@@ -65,7 +65,7 @@ Functions, parameters and return values for reusable logic.
 
 #### 📸 Output
 
-![Functions](Screenshots/function output.png)
+![Functions](<Screenshots/function output.png>)
 
 ---
 
