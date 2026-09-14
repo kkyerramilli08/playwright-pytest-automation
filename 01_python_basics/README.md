@@ -20,7 +20,7 @@ Integers, floats and strings, together with basic type inspection.
 📄 **Script:** [`DatatypeExample.py`](Scripts/DatatypeExample.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/datatype_output.png)](Screenshots/datatype_output.png)
+[![Execution Evidence](datatype_output.png)](datatype_output.png)
 
 ---
 
@@ -30,7 +30,7 @@ Demonstrates runtime type inspection and type checking.
 📄 **Script:** [`type & isinstance func example.py`](Scripts/type & isinstance func example.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/type & instnce func output.png)](Screenshots/type & instnce func output.png)
+[![Execution Evidence](type%20%26%20instnce%20func%20output.png)](type%20%26%20instnce%20func%20output.png)
 
 ---
 
@@ -40,7 +40,7 @@ Uses `if` / `else` logic to control execution based on conditions.
 📄 **Script:** [`conditional stmt example.py`](Scripts/conditional stmt example.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/conditional stmt ex output.png)](Screenshots/conditional stmt ex output.png)
+[![Execution Evidence](conditional%20stmt%20ex%20output.png)](conditional%20stmt%20ex%20output.png)
 
 ---
 
@@ -50,7 +50,7 @@ Demonstrates repeated execution using `for` and `while` loops.
 📄 **Script:** [`for & while loop stmt .py`](Scripts/for & while loop stmt .py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/for&while loop stmt output.png)](Screenshots/for&while loop stmt output.png)
+[![Execution Evidence](for%26while%20loop%20stmt%20output.png)](for%26while%20loop%20stmt%20output.png)
 
 ---
 
@@ -60,7 +60,7 @@ Functions, parameters and return values for reusable logic.
 📄 **Script:** [`function.py`](Scripts/function.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/function output.png)](Screenshots/function output.png)
+[![Execution Evidence](function%20output.png)](function%20output.png)
 
 ---
 
@@ -70,7 +70,7 @@ Python list creation and common list operations.
 📄 **Script:** [`Lists.py`](Scripts/Lists.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/lists output.png)](Screenshots/lists output.png)
+[![Execution Evidence](lists%20output.png)](lists%20output.png)
 
 ---
 
@@ -80,7 +80,7 @@ Set data structures and unique-value behavior.
 📄 **Script:** [`set.py`](Scripts/set.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/set output.png)](Screenshots/set output.png)
+[![Execution Evidence](set%20output.png)](set%20output.png)
 
 ---
 
@@ -90,7 +90,7 @@ Compact anonymous functions using Python `lambda` syntax.
 📄 **Script:** [`Lambda function.py`](Scripts/Lambda function.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/lambda function output.png)](Screenshots/lambda function output.png)
+[![Execution Evidence](lambda%20function%20output.png)](lambda%20function%20output.png)
 
 ---
 
@@ -100,7 +100,7 @@ Introduces object-oriented programming through classes and object instances.
 📄 **Script:** [`class&object.py`](Scripts/class&object.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/class&object output.png)](Screenshots/class&object output.png)
+[![Execution Evidence](class%26object%20output.png)](class%26object%20output.png)
 
 ---
 
@@ -110,7 +110,7 @@ Uses `try`, `except`, `else` and `finally` for controlled error handling.
 📄 **Script:** [`Exceptions Handling.py`](Scripts/Exceptions Handling.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/exceptions handling output.png)](Screenshots/exceptions handling output.png)
+[![Execution Evidence](exceptions%20handling%20output.png)](exceptions%20handling%20output.png)
 
 ---
 
@@ -120,13 +120,13 @@ Demonstrates execution of the `else` block when no exception occurs.
 📄 **Script:** [`exception with else clause.py`](Scripts/exception%20with%20else%20clause.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/exception with else clause output.png)](Screenshots/exception with else clause output.png)
+[![Execution Evidence](exception%20with%20else%20clause%20output.png)](exception%20with%20else%20clause%20output.png)
 
 ---
 
 ## 🖼️ Existing Project Evidence
 
-[![Project Evidence](Screenshots/project evidence.png)](Screenshots/project evidence.png)
+[![Project Evidence](project%20evidence.png)](project%20evidence.png)
 
 ---
 
