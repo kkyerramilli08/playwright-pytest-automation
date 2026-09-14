@@ -80,9 +80,12 @@ Demonstrates ordered execution with `pytest.mark.order`. Independent tests are g
 ---
 
 ### 🔁 Parameterization
+
 Runs the same test logic with multiple sets of input data.
 
-📄 **Script:** [`test_paramater_mark.py`](Scripts/test_paramater_mark.py)
+Parameterization allows the same test to run with different input values without duplicating the test code.
+
+📄 **Script:** [test_paramater_mark.py](Scripts/test_paramater_mark.py)
 
 #### 📸 Output
 [![Execution Evidence](Screenshots/test_parameter_mark.png)](Screenshots/test_parameter_mark.png)
