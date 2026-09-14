@@ -92,12 +92,17 @@ Parameterization allows the same test to run with different input values without
 
 ---
 
-## ⚙️ Test Configuration
+### ⚙️ Test Configuration
 
-[`pytest.ini`](../pytest.ini) is the project-level Pytest configuration file. It defines test discovery rules, registered markers and default execution options used across the automation project.
+`pytest.ini` is the configuration file that tells Pytest how to find and run the tests in this project.
 
-It is located at the repository root and applies to the relevant Pytest test suites; it is not a test script specific to this folder.
+For these Pytest scenarios, it:
+- tells Pytest where the test files are located
+- tells Pytest which files and functions should be treated as tests
+- registers markers such as `smoke`, `sanity`, `reg`, `slow` and `order`
+- applies default options when these tests are executed
 
+**This allows the test scenarios in this section to be discovered and executed consistently without adding the same configuration to every test file.**
 ---
 
 ## 🔑 Key Takeaway
