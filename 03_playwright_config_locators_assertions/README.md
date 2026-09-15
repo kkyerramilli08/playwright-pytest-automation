@@ -14,19 +14,17 @@ This section demonstrates how Playwright identifies elements, interacts with web
 
 ## 📚 Topics
 
-### ⚙️ Playwright Configuration
-
-Playwright is configured to run browser-based tests through Pytest. The project-level `pytest.ini` controls browser execution options such as the Chromium browser and headed execution.
-
-📄 **Configuration:** [`pytest.ini`](../pytest.ini)
-
-📄 **Example Script:** [`test_example.py`](Scripts/test_example.py)
+### 🧪 Test Example
 
 The `test_example.py` script demonstrates the basic Playwright test setup and browser interaction used in this section.
 
-#### 📸 Output
-[![Execution Evidence](Screenshots/test_example.png)](Screenshots/test_example.png)
+📄 **Script:** [test_example.py](Scripts/test_example.py)
 
+#### 📸 Output
+
+![Output](<Screenshots/test_example.png>)
+
+![Output](<Screenshots/test_example1.png>)
 ---
 
 ### 🔹 get_by_role()
@@ -35,16 +33,19 @@ Semantic role-based element identification.
 📄 **Script:** [`test_getbyrole.py`](Scripts/test_getbyrole.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_getbyrole.png)](Screenshots/test_getbyrole.png)
+
+![Output](<Screenshots/test_getbyrole.png>)
 
 ---
 ### 🔹 get_by_text()
+
 Locating elements by visible text.
 
-📄 **Script:** [`test_getbytext.py`](Scripts/test_getbytext.py)
+📄 **Script:** [test_getbytext.py](Scripts/test_getbytext.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_getbytext.png)](Screenshots/test_getbytext.png)
+
+![Output](Screenshots/test_getbytext.png)
 
 ---
 ### 🔹 get_by_label()
@@ -136,6 +137,16 @@ An additional Playwright example included in this learning section.
 
 #### 📸 Output
 [![Execution Evidence](Screenshots/test_generator.png)](Screenshots/test_generator.png)
+
+---
+
+---
+
+## ⚙️ Playwright Configuration
+
+Playwright is configured to run browser-based tests through Pytest. The project-level `pytest.ini` controls browser execution options such as the Chromium browser and headed execution.
+
+📄 **Configuration:** [pytest.ini](../pytest.ini)
 
 ---
 
