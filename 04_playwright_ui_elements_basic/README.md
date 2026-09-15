@@ -105,8 +105,7 @@ Retrieving text from a web element and validating the result.
 
 ## 🖼️ Existing Project Evidence
 
-![Project Evidence](Screenshots/project evidence.png)
-
+![Project Evidence](<Screenshots/project evidence.png>)
 ---
 
 ## 🔑 Key Takeaway
