@@ -80,7 +80,7 @@ Locating elements using a unique test ID assigned to the element.
 
 #### 📸 Output
 
-![Output](Screenshots/test_getbytestid.png)
+![Output](Screenshots/test_testbytestid.png)
 
 ---
 ### 🔹 get_by_alt_text()
