@@ -168,6 +168,9 @@ This script shows how recorded browser actions can be converted into Playwright 
 
 ![Output](Screenshots/test_generator.png)
 
+![Output](Screenshots/test_generator1.png)
+
+
 ---
 
 ## ⚙️ Playwright Configuration
