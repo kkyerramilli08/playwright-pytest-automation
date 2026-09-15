@@ -49,102 +49,130 @@ Locating elements by visible text.
 
 ---
 ### 🔹 get_by_label()
+
 Locating form controls through their associated labels.
 
-📄 **Script:** [`test_getbylabel.py`](Scripts/test_getbylabel.py)
+📄 **Script:** [test_getbylabel.py](Scripts/test_getbylabel.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_getbylabel.png)](Screenshots/test_getbylabel.png)
+
+![Output](Screenshots/test_getbylabel.png)
+
+![Output](Screenshots/test_getbylabel1.png)
 
 ---
 ### 🔹 get_by_placeholder()
-Locating inputs by placeholder text.
 
-📄 **Script:** [`test_getbyplaceholder.py`](Scripts/test_getbyplaceholder.py)
+Locating input fields using their placeholder text.
+
+📄 **Script:** [test_getbyplaceholder.py](Scripts/test_getbyplaceholder.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_getbyplaceholder.png)](Screenshots/test_getbyplaceholder.png)
+
+![Output](Screenshots/test_getbyplaceholder.png)
 
 ---
 ### 🔹 get_by_test_id()
-Locating elements using test identifiers.
 
-📄 **Script:** [`test_getbytestid.py`](Scripts/test_getbytestid.py)
+Locating elements using a unique test ID assigned to the element.
+
+📄 **Script:** [test_getbytestid.py](Scripts/test_getbytestid.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_testbytestid.png)](Screenshots/test_testbytestid.png)
+
+![Output](Screenshots/test_getbytestid.png)
 
 ---
 ### 🔹 get_by_alt_text()
+
 Locating images and elements using alternative text.
 
-📄 **Script:** [`test_getbyalttext.py`](Scripts/test_getbyalttext.py)
+📄 **Script:** [test_getbyalttext.py](Scripts/test_getbyalttext.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_getbyalttext.png)](Screenshots/test_getbyalttext.png)
+
+![Output](Screenshots/test_getbyalttext.png)
+
+![Output](Screenshots/test_getbyalttext1.png)
 
 ---
 ### 🔹 get_by_title()
+
 Locating elements using title attributes.
 
-📄 **Script:** [`test_getbytitle.py`](Scripts/test_getbytitle.py)
+📄 **Script:** [test_getbytitle.py](Scripts/test_getbytitle.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_getbytitle.png)](Screenshots/test_getbytitle.png)
+
+![Output](Screenshots/test_getbytitle.png)
 
 ---
 ### 🔹 CSS Selectors
-CSS-based element selection.
 
-📄 **Script:** [`test_cssSelector.py`](Scripts/test_cssSelector.py)
+Selecting elements using CSS-based locator selectors.
+
+📄 **Script:** [test_cssSelector.py](Scripts/test_cssSelector.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_cssSelector.png)](Screenshots/test_cssSelector.png)
+
+![Output](Screenshots/test_cssSelector.png)
+
+![Output](Screenshots/test_cssSelector1.png)
 
 ---
 ### 🔹 XPath
-XPath-based element selection for complex locator requirements.
 
-📄 **Script:** [`test_xpath.py`](Scripts/test_xpath.py)
+Selecting elements using XPath expressions for complex locator requirements.
+
+📄 **Script:** [test_xpath.py](Scripts/test_xpath.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_xpath.png)](Screenshots/test_xpath.png)
+
+![Output](Screenshots/test_xpath.png)
 
 ---
 ### 🔹 Assertions
-Playwright expect() validations for visible, enabled, title, URL and heading state.
 
-📄 **Script:** [`test_LocatorAssertions.py`](Scripts/test_LocatorAssertions.py)
+Playwright `expect()` validations for visible, enabled, title, URL and heading state.
+
+📄 **Script:** [test_LocatorAssertions.py](Scripts/test_LocatorAssertions.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_LocatorAssertions.png)](Screenshots/test_LocatorAssertions.png)
+
+![Output](Screenshots/test_LocatorAssertions.png)
 
 ---
 ### 🔹 Shadow DOM
-Locating elements inside Shadow DOM.
 
-📄 **Script:** [`test_locateinShadowDOM.py`](Scripts/test_locateinShadowDOM.py)
+Locating and interacting with elements inside a Shadow DOM.
+
+This script demonstrates how Playwright accesses elements within Shadow DOM boundaries.
+
+📄 **Script:** [test_locateinShadowDOM.py](Scripts/test_locateinShadowDOM.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_locateinShadowDOM.png)](Screenshots/test_locateinShadowDOM.png)
+
+![Output](Screenshots/test_locateinShadowDOM.png)
 
 ---
 
-### 🧬 Generator Example
-An additional Playwright example included in this learning section.
+### 🔹 Generator Example
 
-📄 **Script:** [`test_generator.py`](Scripts/test_generator.py)
+Demonstrates Playwright's code generator for creating test code from browser interactions.
+
+This script shows how recorded browser actions can be converted into Playwright test code.
+
+📄 **Script:** [test_generator.py](Scripts/test_generator.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_generator.png)](Screenshots/test_generator.png)
 
----
+![Output](Screenshots/test_generator.png)
 
 ---
 
 ## ⚙️ Playwright Configuration
 
-Playwright is configured to run browser-based tests through Pytest. The project-level `pytest.ini` controls browser execution options such as the Chromium browser and headed execution.
+Playwright runs these browser-based tests through Pytest. The project-level `pytest.ini` provides the default browser and execution settings used by the tests in this section.
 
 📄 **Configuration:** [pytest.ini](../pytest.ini)
 
@@ -152,8 +180,7 @@ Playwright is configured to run browser-based tests through Pytest. The project-
 
 ## 🖼️ Existing Project Evidence
 
-[![Project Evidence](Screenshots/project evidence.png)](Screenshots/project evidence.png)
-
+![Project Evidence](Screenshots/project evidence.png)
 
 ---
 
