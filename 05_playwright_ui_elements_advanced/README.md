@@ -14,184 +14,226 @@ This section moves beyond basic controls into browser-level scenarios covering t
 
 ## 📚 Topics
 
-### 🔹 Web Tables
+### 📊 Web Tables
+
 Locating and validating data within web tables.
 
-📄 **Script:** [`test_WebTables.py`](Scripts/test_WebTables.py)
+📄 **Script:** [test_WebTables.py](Scripts/test_WebTables.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_WebTables.png)](Screenshots/test_WebTables.png)
+
+![Output](<Screenshots/test_WebTables.png>)
 
 ---
-### 🔹 Dynamic Web Tables
+### 🔄 Dynamic Web Tables
+
 Working with table data that changes dynamically.
 
-📄 **Script:** [`test_DynamicWebTables.py`](Scripts/test_DynamicWebTables.py)
+📄 **Script:** [test_DynamicWebTables.py](Scripts/test_DynamicWebTables.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_DynamicWebTables.png)](Screenshots/test_DynamicWebTables.png)
+
+![Output](<Screenshots/test_DynamicWebTables.png>)
 
 ---
-### 🔹 Tooltips
+### 💬 Tooltips
+
 Interacting with and validating tooltip behavior.
 
-📄 **Script:** [`test_Tooltip.py`](Scripts/test_Tooltip.py)
+📄 **Script:** [test_Tooltip.py](Scripts/test_Tooltip.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_Tooltip.png)](Screenshots/test_Tooltip.png)
+
+![Output](<Screenshots/test_Tooltip.png>)
 
 ---
-### 🔹 Alerts & Confirm Dialogs
+### ⚠️ Alerts & Confirm Dialogs
+
 Handling browser alert and confirmation dialogs.
 
-📄 **Script:** [`test_AlertConfirm.py`](Scripts/test_AlertConfirm.py)
+📄 **Script:** [test_AlertConfirm.py](Scripts/test_AlertConfirm.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_AlertConfim.png)](Screenshots/test_AlertConfim.png)
+
+![Output](<Screenshots/test_AlertConfirm.png>)
+
 
 ---
-### 🔹 Alert Handling
+### ⚠️ Alert Handling
+
 Additional browser dialog handling.
 
-📄 **Script:** [`test_HandlingAlerts.py`](Scripts/test_HandlingAlerts.py)
+📄 **Script:** [test_HandlingAlerts.py](Scripts/test_HandlingAlerts.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_HandlingAlerts.png)](Screenshots/test_HandlingAlerts.png)
+
+![Output](<Screenshots/test_HandlingAlerts.png>)
+
 
 ---
-### 🔹 Frames
+### 🖼️ Frames
+
 Interacting with elements inside frames.
 
-📄 **Script:** [`test_HandlingFrames.py`](Scripts/test_HandlingFrames.py)
+📄 **Script:** [test_HandlingFrames.py](Scripts/test_HandlingFrames.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_HandlingFrames.png)](Screenshots/test_HandlingFrames.png)
+
+![Output](<Screenshots/test_HandlingFrames.png>)
 
 ---
-### 🔹 Child Frames
+### 🖼️ Child Frames
+
 Handling nested or child frame content.
 
-📄 **Script:** [`test_HandlingChildFrames.py`](Scripts/test_HandlingChildFrames.py)
+📄 **Script:** [test_HandlingChildFrames.py](Scripts/test_HandlingChildFrames.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_HandlingChildFrames.png)](Screenshots/test_HandlingChildFrames.png)
+
+![Output](<Screenshots/test_HandlingChildFrames.png>)
 
 ---
-### 🔹 Multiple Windows / Tabs
+### 🪟 Multiple Windows / Tabs
+
 Handling multiple browser pages opened during a test.
 
-📄 **Script:** [`test_MultipleWindows.py`](Scripts/test_MultipleWindows.py)
+📄 **Script:** [test_MultipleWindows.py](Scripts/test_MultipleWindows.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_MultipleWindows.png)](Screenshots/test_MultipleWindows.png)
+
+![Output](<Screenshots/test_MultipleWindows.png>)
 
 ---
-### 🔹 Browser Context
+### 🌐 Browser Context
+
 Using isolated browser contexts for independent sessions.
 
-📄 **Script:** [`test_BrowserContext.py`](Scripts/test_BrowserContext.py)
+📄 **Script:** [test_BrowserContext.py](Scripts/test_BrowserContext.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_BrowserContext.png)](Screenshots/test_BrowserContext.png)
+
+![Output](<Screenshots/test_BrowserContext.png>)
 
 ---
-### 🔹 Drag & Drop
+### 🖱️ Drag & Drop
+
 Automating drag-and-drop interaction.
 
-📄 **Script:** [`test_DragAndDrop.py`](Scripts/test_DragAndDrop.py)
+📄 **Script:** [test_DragAndDrop.py](Scripts/test_DragAndDrop.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_DragAndDrop.png)](Screenshots/test_DragAndDrop.png)
+
+![Output](<Screenshots/test_DragAndDrop.png>)
 
 ---
-### 🔹 Auto-Suggestions
-Working with dynamic suggestion lists.
+### 🖱️ Drag & Drop
 
-📄 **Script:** [`test_AutoSuggestions.py`](Scripts/test_AutoSuggestions.py)
+Automating drag-and-drop interaction.
+
+📄 **Script:** [test_DragAndDrop.py](Scripts/test_DragAndDrop.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_AutoSuggestions.png)](Screenshots/test_AutoSuggestions.png)
+
+![Output](<Screenshots/test_DragAndDrop.png>)
 
 ---
-### 🔹 Auto-Waiting
+### ⏳ Auto-Waiting
+
 Playwright synchronization for dynamic elements.
 
-📄 **Script:** [`test_AutoWaiting.py`](Scripts/test_AutoWaiting.py)
+📄 **Script:** [test_AutoWaiting.py](Scripts/test_AutoWaiting.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_AutoWaiting.png)](Screenshots/test_AutoWaiting.png)
+
+![Output](<Screenshots/test_AutoWaiting.png>)
 
 ---
-### 🔹 Authentication Popup
+### 🔐 Authentication Popup
+
 Handling browser authentication requirements.
 
-📄 **Script:** [`test_AuthLoginPopup.py`](Scripts/test_AuthLoginPopup.py)
+📄 **Script:** [test_AuthLoginPopup.py](Scripts/test_AuthLoginPopup.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_AuthLoginPopup.png)](Screenshots/test_AuthLoginPopup.png)
+
+![Output](<Screenshots/test_AuthLoginPopup.png>)
 
 ---
-### 🔹 File Upload
+### 📤 File Upload
+
 Uploading files through Playwright.
 
-📄 **Script:** [`test_UploadFiles.py`](Scripts/test_UploadFiles.py)
+📄 **Script:** [test_UploadFiles.py](Scripts/test_UploadFiles.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_UploadFiles.png)](Screenshots/test_UploadFiles.png)
+
+![Output](<Screenshots/test_UploadFiles.png>)
 
 ---
-### 🔹 Screenshots
-Capturing screenshots as execution evidence.
+### 📸 Screenshots
 
-📄 **Script:** [`test_CaptureScreenshots.py`](Scripts/test_CaptureScreenshots.py)
+Capturing screenshots during test execution.
+
+📄 **Script:** [test_CaptureScreenshots.py](Scripts/test_CaptureScreenshots.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_CaptureScreenshots.png)](Screenshots/test_CaptureScreenshots.png)
+
+![Output](<Screenshots/test_CaptureScreenshots.png>)
 
 ---
-### 🔹 Video Recording
+### 🎥 Video Recording
+
 Recording browser execution during automation.
 
-📄 **Script:** [`test_CaptureVideos.py`](Scripts/test_CaptureVideos.py)
+📄 **Script:** [test_CaptureVideos.py](Scripts/test_CaptureVideos.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_CaptureVideos.png)](Screenshots/test_CaptureVideos.png)
+
+![Output](<Screenshots/test_CaptureVideos.png>)
 
 ---
-### 🔹 Date Picker
+### 📅 Date Picker
+
 Interacting with a date picker control.
 
-📄 **Script:** [`test_DatePicker.py`](Scripts/test_DatePicker.py)
+📄 **Script:** [test_DatePicker.py](Scripts/test_DatePicker.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_DatePicker.png)](Screenshots/test_DatePicker.png)
+
+![Output](<Screenshots/test_DatePicker.png>)
 
 ---
-### 🔹 Base URL
+### 🌐 Base URL
+
 Using configured base URLs for relative navigation.
 
-📄 **Script:** [`test_BaseURL.py`](Scripts/test_BaseURL.py)
+📄 **Script:** [test_BaseURL.py](Scripts/test_BaseURL.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_BaseURL.png)](Screenshots/test_BaseURL.png)
+
+![Output](<Screenshots/test_BaseURL.png>)
 
 ---
-### 🔹 Rerun Failures
+### 🔄 Rerun Failures
+
 Configuring Pytest rerun behavior for failed tests.
 
-📄 **Script:** [`test_rerunfailures.py`](Scripts/test_rerunfailures.py)
+📄 **Script:** [test_rerunfailures.py](Scripts/test_rerunfailures.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_rerunfailures.png)](Screenshots/test_rerunfailures.png)
+
+![Output](<Screenshots/test_rerunfailures.png>)
 
 ---
-### 🔹 End-to-End Automation
+### 🔄 End-to-End Automation
+
 Combining browser capabilities into a complete workflow.
 
-📄 **Script:** [`test_E2EScenarioAutomation.py`](Scripts/test_E2EScenarioAutomation.py)
+📄 **Script:** [test_E2EScenarioAutomation.py](Scripts/test_E2EScenarioAutomation.py)
 
 #### 📸 Output
-[![Execution Evidence](Screenshots/test_E2EScenarioAutomation.png)](Screenshots/test_E2EScenarioAutomation.png)
+
+![Output](<Screenshots/test_E2EScenarioAutomation.png>)
 
 ---
 
