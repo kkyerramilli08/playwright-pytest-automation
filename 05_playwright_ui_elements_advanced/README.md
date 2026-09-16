@@ -191,7 +191,7 @@ Recording browser execution during automation.
 
 #### 🎥 Video
 
-[page@2f8fad08d893e80e4d87cab58e193e73.webm](Videos/page@2f8fad08d893e80e4d87cab58e193e73.webm)
+[test_CaptureVideos.webm](Videos/test_CaptureVideos.webm)
 
 #### 📸 Output
 
