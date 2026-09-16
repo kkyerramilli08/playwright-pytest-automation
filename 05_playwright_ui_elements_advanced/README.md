@@ -187,6 +187,10 @@ Recording browser execution during automation.
 
 📄 **Script:** [test_CaptureVideos.py](Scripts/test_CaptureVideos.py)
 
+#### 🎥 Video
+
+[page@2f8fad08d893e80e4d87cab58e193e73.webm](Videos/page@2f8fad08d893e80e4d87cab58e193e73.webm)
+
 #### 📸 Output
 
 ![Output](<Screenshots/test_CaptureVideos.png>)
