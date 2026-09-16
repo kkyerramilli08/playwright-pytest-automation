@@ -55,7 +55,7 @@ Handling browser alert and confirmation dialogs.
 
 #### 📸 Output
 
-![Output](Screenshots/test_AlertConfirm.png)
+![Output](Screenshots/test_AlertConfim.png)
 
 ---
 
