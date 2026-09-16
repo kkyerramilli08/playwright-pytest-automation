@@ -4,7 +4,7 @@ import pytest
 
 from playwright.sync_api import Page, expect
 
-def test_AutoWait1(page: Page):
+def test_rerunfailures(page: Page):
     page.goto("http://uitestingplayground.com/ajax")
     page.set_default_timeout(4000)
     page.locator("#ajaxButton").click()
