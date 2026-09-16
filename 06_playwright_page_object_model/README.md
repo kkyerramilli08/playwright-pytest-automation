@@ -15,47 +15,62 @@ This section separates page-specific locators and actions into reusable classes 
 ## 📚 Topics
 
 ### 🔐 Login Page Object
+
 Encapsulates SauceDemo login elements and actions.
 
-📄 **Script:** [`LoginPage.py`](Scripts/pages/LoginPage.py)
+📄 **Script:** [LoginPage.py](Scripts/pages/LoginPage.py)
 
 #### 📸 Output
+
+![Login Page Object](Screenshots/LoginPage.png)
 
 ---
 
 ### 🏠 Home Page Object
+
 Encapsulates product-page interactions and shopping-cart actions.
 
-📄 **Script:** [`HomePage.py`](Scripts/pages/HomePage.py)
+📄 **Script:** [HomePage.py](Scripts/pages/HomePage.py)
 
 #### 📸 Output
+
+![Home Page Object](Screenshots/HomePage.png)
 
 ---
 
 ### 🛒 Cart Page Object
+
 Encapsulates shopping-cart interactions.
 
-📄 **Script:** [`CartPage.py`](Scripts/pages/CartPage.py)
+📄 **Script:** [CartPage.py](Scripts/pages/CartPage.py)
 
 #### 📸 Output
+
+![Cart Page Object](Screenshots/CartPage.png)
 
 ---
 
 ### 🧾 Checkout Information Page Object
+
 Encapsulates customer information used during checkout.
 
-📄 **Script:** [`InfoPage.py`](Scripts/pages/InfoPage.py)
+📄 **Script:** [InfoPage.py](Scripts/pages/InfoPage.py)
 
 #### 📸 Output
+
+![Checkout Information Page Object](Screenshots/InfoPage.png)
 
 ---
 
 ### 📋 Overview Page Object
+
 Encapsulates order review and final checkout actions.
 
-📄 **Script:** [`OverviewPage.py`](Scripts/pages/OverviewPage.py)
+📄 **Script:** [OverviewPage.py](Scripts/pages/OverviewPage.py)
 
 #### 📸 Output
+
+![Overview Page Object](Screenshots/OverviewPage.png)
 
 ---
 
