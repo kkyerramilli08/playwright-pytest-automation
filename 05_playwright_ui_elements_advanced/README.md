@@ -57,6 +57,8 @@ Handling browser alert and confirmation dialogs.
 
 ![Output](<Screenshots/test_AlertConfirm.png>)
 
+---
+
 
 ---
 ### ⚠️ Alert Handling
@@ -114,18 +116,6 @@ Using isolated browser contexts for independent sessions.
 
 ![Output](<Screenshots/test_BrowserContext.png>)
 
----
-### 🖱️ Drag & Drop
-
-Automating drag-and-drop interaction.
-
-📄 **Script:** [test_DragAndDrop.py](Scripts/test_DragAndDrop.py)
-
-#### 📸 Output
-
-![Output](<Screenshots/test_DragAndDrop.png>)
-
----
 ### 🖱️ Drag & Drop
 
 Automating drag-and-drop interaction.
@@ -148,6 +138,18 @@ Playwright synchronization for dynamic elements.
 ![Output](<Screenshots/test_AutoWaiting.png>)
 
 ---
+### 💡 Auto-Suggestions
+
+Handling and validating dynamically generated suggestions.
+
+📄 **Script:** [test_AutoSuggestions.py](Scripts/test_AutoSuggestions.py)
+
+#### 📸 Output
+
+![Output](<Screenshots/test_AutoSuggestions.png>)
+
+---
+
 ### 🔐 Authentication Popup
 
 Handling browser authentication requirements.
@@ -243,10 +245,7 @@ Combining browser capabilities into a complete workflow.
 
 ## 🖼️ Existing Project Evidence
 
-[![Project Evidence](Screenshots/project evidence.png)](Screenshots/project evidence.png)
-
-
-
+![Project Evidence](<Screenshots/project evidence.png>)
 
 ---
 
