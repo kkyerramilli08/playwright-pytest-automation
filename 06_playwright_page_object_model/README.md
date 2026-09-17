@@ -84,24 +84,32 @@ Uses Faker and random data generation for dynamic customer information.
 ---
 
 ### 🔄 End-to-End Test Scenario
+
 Coordinates the page objects through the complete SauceDemo customer workflow.
 
 **Workflow**
 
 `Login → Product → Cart → Checkout → Customer Information → Review → Place Order → Logout`
 
-📄 **Script:** [`test_E2EScenario1.py`](Scripts/pages/test_E2EScenario1.py)
+📄 **Script:** [test_E2EScenario1.py](Scripts/pages/test_E2EScenario1.py)
 
 #### 📸 Output
+
+![End-to-End Test Scenario](Screenshots/test_E2EScenario1.png)
 
 ---
 
 ### ▶️ Test Runner
+
 Provides the test-runner entry point used with the page-object implementation.
 
-📄 **Script:** [`test_runner.py`](Scripts/pages/test_runner.py)
+📄 **Script:** [test_runner.py](Scripts/pages/test_runner.py)
 
 #### 📸 Output
+
+![Test Runner](Screenshots/test_runner.png)
+
+![Test Runner Chromium](Screenshots/test_runner_chromium.png)
 
 ---
 
@@ -119,6 +127,11 @@ Provides the test-runner entry point used with the page-object implementation.
     ├── test_E2EScenario1.py
     └── test_runner.py
 ```
+---
+
+## 🖼️ Existing Project Evidence
+
+![Project Evidence](<Screenshots/project evidence.png>)
 
 ---
 
