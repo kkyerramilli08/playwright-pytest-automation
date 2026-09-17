@@ -75,11 +75,10 @@ Encapsulates order review and final checkout actions.
 ---
 
 ### 🎲 Test Data Generation
-Uses Faker and random data generation for dynamic customer information.
 
-📄 **Script:** [`Random_Data.py`](Scripts/pages/Random_Data.py)
+Generates dynamic customer data using Faker and random values for checkout testing.
 
-#### 📸 Output
+📄 **Script:** [Random_Data.py](Scripts/pages/Random_Data.py)
 
 ---
 
